@@ -1,4 +1,4 @@
-# 💰 FinPredict – Machine Learning Based Bank Loan Amount Prediction
+# 💰 LoanSense – Machine Learning Based Bank Loan Amount Prediction System
 
 ## 🔍 Project Overview
 This project presents an end-to-end Machine Learning regression solution developed to predict bank loan amounts using customer financial and demographic data. The goal is to assist financial institutions in making accurate, data-driven lending decisions and reducing the risks of over-lending or under-lending.
